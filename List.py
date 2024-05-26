@@ -11,3 +11,6 @@ new_dict = {i:college[i] for i in range(len(college))} ## new added
 print(new_dict)
 
 ##This is final code
+
+
+#this trial for merging from develop to master
